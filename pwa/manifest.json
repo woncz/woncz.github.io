@@ -1,7 +1,7 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Woncz Blog",
+  "short_name": "Woncz Blog",
+  "description": "happy living happy coding",
   "icons": [{
     "src": "icons/128.png",
     "sizes": "128x128",
@@ -17,3 +17,4 @@
   "display": "standalone",
   "orientation": "portrait"
 }
+
