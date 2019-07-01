@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Netty reading_notes"
+title:      "netty reading notes"
 subtitle:   "Netty in Action"
 date:       2019-07-01
 author:     "Woncz"
@@ -45,7 +45,7 @@ tags:
 
 - ChannelHandler lifestyle, inbound vs outbound
 
-- ChannelPipeline 
+- ChannelPipeline
 
 - ChannelHandlerContext
 
@@ -53,7 +53,7 @@ tags:
 
 ### EventLoop和Reactor线程模型
 
-- Reactor 
+- Reactor
 
 - EventLoop
 
