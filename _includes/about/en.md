@@ -10,10 +10,9 @@ I studied Computer Sicence and graduated from [Dalian University of Technology](
 | --- | ------------- | --------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
 | 😅  | `PHP` `BASIC` | `C` `Prolog` <br> `Objective-C`               | `Kotlin` `Dart` `MIPS`                          | `Swift` `Agda` `Idris`                        |
 | 🧐  |               | `C++` `Hack` <br> `Scheme` `Racket` `Clojure` | `C++ >11` `C#` `Typed Py` <br> `ActionScript 3` | `Scala` `Rust`                                |
-| 😏  | `Shell`       | `Java` `Python`                               | `TypeScript` `Flow` `WASM`                      | `Haskell` `Coq` <br> `SML` `OCaml` `ReasonML` |
-| 🤓  |               | `JavaScript`                                  | `Javascript >ES6`                               | `λ` `Λ` `Π` `Σ`                               |
+| 😏  | `Shell`       | `JavaScript` `Python`                         | `TypeScript` `Flow` `WASM`                      | `Haskell` `Coq` <br> `SML` `OCaml` `ReasonML` |
+| 🤓  |               | `Java` `SQL`                                  | `Java >GO`                                      | `λ` `Λ` `Π` `Σ`                               |
 
-> Heard but barely experienced: `Fortran` `Smalltalk` `Pascal` `Forth` `Ruby` `CoffeeScript` `Go` `Elm` `Erlang` `Elixir` `F#` `F*` `Q#` `Nim` `Haxe` `Cyclone` `VimScript` `Perl` `Lua` `AppleScript`
+> Heard but barely experienced: `Fortran` `Smalltalk` `Pascal` `Forth` `Ruby` `CoffeeScript` `Elm` `Erlang` `Elixir` `F#` `F*` `Q#` `Nim` `Haxe` `Cyclone` `VimScript` `Perl` `Lua` `AppleScript`
 
 ##### Talks
-
