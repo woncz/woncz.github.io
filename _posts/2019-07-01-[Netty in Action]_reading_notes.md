@@ -8,7 +8,7 @@ header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
   - Netty
-  - reading_notes
+  - Notes
 ---
 
 ### Netty概念和体系架构
