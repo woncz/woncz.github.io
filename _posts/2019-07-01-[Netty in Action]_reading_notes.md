@@ -7,8 +7,8 @@ author:     "Woncz"
 header-img: "img/post-bg-universe.jpg"
 catalog: true
 tags:
-  - Netty
-  - Notes
+  - NETTY
+  - NOTES
 ---
 
 ### Netty概念和体系架构

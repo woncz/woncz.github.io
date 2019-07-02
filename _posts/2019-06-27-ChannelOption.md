@@ -7,8 +7,8 @@ author:     "Woncz"
 header-img: "img/post-bg-os-metro.jpg"
 catalog: true
 tags:
-  - Netty
-  - ChannelOption
+  - NETTY 
+  - CHANNELOPTION
 ---
 
 ### SO_BACKLOG
